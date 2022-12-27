@@ -1,0 +1,42 @@
+_repo: The-ocean-wireless-boys-of-the-iceberg-patrol_69517
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+creator:
+  author:
+    agent_name: Goldfrap, John Henry
+    aliases:
+    - Lawton, Captain Wilbur
+    - Deering, Fremont B.
+    - Payson, Howard
+    - Lawton, Wilbur
+    - Dexter J. Forrester
+    - West, Marvin
+    - Forrester, Dexter J.
+    birthdate: 1879
+    deathdate: 1917
+    gutenberg_agent_id: '1974'
+    url: http://www.gutenberg.org/2009/agents/1974
+    wikipedia: https://en.wikipedia.org/wiki/John_Henry_Goldfrap
+description: ''
+gutenberg_issued: '2022-12-10'
+identifiers:
+  gutenberg: '69517'
+language: en
+pgterms:marc905: 20221016005023lawton
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: 'United States: Hurst & Company,1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The ocean wireless boys of the iceberg patrol
+url: http://www.gutenberg.org/ebooks/69517
