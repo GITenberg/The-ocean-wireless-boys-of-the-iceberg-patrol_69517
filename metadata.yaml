@@ -7,6 +7,9 @@ contributor:
     deathdate: 1952
     gutenberg_agent_id: '25468'
     url: http://www.gutenberg.org/2009/agents/25468
+covers:
+- cover_type: archival
+  image_path: 69517-h/images/cover.jpg
 creator:
   author:
     agent_name: Goldfrap, John Henry
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1974
     wikipedia: https://en.wikipedia.org/wiki/John_Henry_Goldfrap
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69517#The-ocean-wireless-boys-of-the-iceberg-patrol
 gutenberg_issued: '2022-12-10'
 identifiers:
   gutenberg: '69517'
